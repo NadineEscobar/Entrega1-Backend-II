@@ -3,3 +3,4 @@
 /public/img/**
 products.json
 carts.json
+.env
